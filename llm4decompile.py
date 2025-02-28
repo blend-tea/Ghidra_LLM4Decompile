@@ -2,6 +2,7 @@
 # @category LLM4Decompile
 # @runtime PyGhidra
 # @keybinding F5
+# @author blend-tea
 
 
 # LLM Requirements
